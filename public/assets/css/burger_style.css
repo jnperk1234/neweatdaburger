@@ -1,0 +1,36 @@
+
+.jumbotron {
+     
+    background-image: url("../img/cuteburger.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: #000000; 
+    color: rgb(34, 34, 34);
+ 
+}
+
+.menu {
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+}
+
+#newburger {
+    color: #5c5c5c;
+}
+
+#leftside {
+    background-color: #5c5c5c;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+#rightside {
+    background-color: #e49322;
+    color: white;
+    text-align: center;
+    font-size: 1.3em;
+}
+
